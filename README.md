@@ -1,6 +1,8 @@
 # cidp-cards
 
-cards from Collective Intelligence Design Playbook broken out as separate images (Creative Commons licensed)https://www.nesta.org.uk/toolkit/collective-intelligence-design-playbook/
+cards from Collective Intelligence Design Playbook broken out as separate images (Creative Commons licensed)
+
+https://www.nesta.org.uk/toolkit/collective-intelligence-design-playbook/
 
 https://raw.githubusercontent.com/Connoropolous/cidp-cards/master/images/cidp-01.png
 ![cidp-01.png](images/cidp-01.png)
